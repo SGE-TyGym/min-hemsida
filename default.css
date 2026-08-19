@@ -1,0 +1,18 @@
+p {
+	font-size: 24px;
+	font-kerning: normal;
+}
+
+h1 {
+	font-size: 48px;
+	font-kerning: normal;
+}
+
+h2 {
+	font-size: 32px;
+	font-kerning: normal;
+}
+
+.cen {
+	text-align: center;
+}
